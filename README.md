@@ -6,6 +6,8 @@ Written in: Qt, QML, C/C++, Javascript, QXMPP Library, BlackBerry Cascades SDK, 
 Others: Parse.com Web Panel/System for Controlling Users and the App: 
 PRO Exemption, Announcements, Updates, etc...
 
+- Used by 700,000+ Users
+
 - Reviews:
 
 CrackBerry
